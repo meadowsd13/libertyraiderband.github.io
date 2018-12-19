@@ -21,3 +21,7 @@
   padding: 20px 0;
   font-size: 30px;
 }
+
+.gridContainer > .contentContainer {
+  background-color: rgba(255, 0, 255, 0.8)
+}
