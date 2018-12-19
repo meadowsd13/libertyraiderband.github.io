@@ -35,3 +35,11 @@
   padding: 20px 0;
   text-align: center;
 }
+
+.headerContainer {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto;
+  grid-gap: 10px;
+  background-color: rgba(0, 255, 255, 0.5);
+}
