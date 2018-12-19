@@ -43,3 +43,9 @@
   grid-gap: 10px;
   background-color: rgba(0, 255, 255, 0.8);
 }
+
+.headerContainer > div {
+  background-color: rgba(0, 200, 255, 0.5);
+  padding: 20px 0;
+  text-align: center;
+}
