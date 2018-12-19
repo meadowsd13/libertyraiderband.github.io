@@ -32,4 +32,5 @@
 
 .gridContainer > .contentContainer > div {
   background-color: rgba(255, 0, 100, 0.8);
+  padding: 20px 0;
 }
