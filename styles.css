@@ -17,7 +17,7 @@
 .gridContainer > div {
   background-color: rgba(255, 255, 255, 0.8);
   text-align: center;
-  font-size: auto;
+  font-size: 30px;
 }
 
 .gridContainer > .contentContainer {
@@ -67,4 +67,5 @@
   font-family: 'Bungee Shade', cursive;
   color: red;
   text-align: left;
+  font-size: 64px;
 }
