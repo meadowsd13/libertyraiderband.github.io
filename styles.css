@@ -12,13 +12,11 @@
   grid-template-rows: auto auto auto;
   grid-gap: 10px;
   background-color: #2196F3;
-  padding: 10px;
 }
 
 .gridContainer > div {
   background-color: rgba(255, 255, 255, 0.8);
   text-align: center;
-  padding: 20px 0;
   font-size: 30px;
 }
 
@@ -27,12 +25,10 @@
   grid-template-columns: auto auto;
   grid-gap: 10px;
   background-color: rgba(255, 0, 255, 0.8);
-  padding: 10px;
 }
 
 .gridContainer > .contentContainer > div {
   background-color: rgba(100, 0, 255, 0.8);
-  padding: 20px 0;
   text-align: center;
 }
 
@@ -42,7 +38,6 @@
   grid-template-rows: auto auto;
   grid-gap: 10px;
   background-color: rgba(0, 255, 255, 0.8);
-  padding: 10px;
 }
 
 .headerContainer > div {
