@@ -59,6 +59,7 @@
   grid-template-columns: auto auto auto auto auto auto;
   grid-gap: 10px;
   text-align: center;
+  background-color: red;
 }
 
 .nav > div {
