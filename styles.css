@@ -58,12 +58,13 @@
   grid-template-columns: auto auto auto auto auto auto;
   grid-gap: 10px;
   text-align: center;
-  background-color: rgba(255, 0, 0, 0.5);
+  background-color: rgba(255, 0, 0, 1);
 }
 
 .nav > div {
   font-family: Impact, Verdana, sans-serif;
   font-size: 24px;
+  color: #FFF;
 }
 
 .login {
