@@ -9,15 +9,3 @@
 html {
   background-color: blue;
 }
-
-@media screen and (min-width: 360px) {
-  html {
-    background-color: red;
-  }
-}
-
-@media screen and (min-width: 768px) {
-  html {
-    background-color: yellow;
-  }
-}
