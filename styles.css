@@ -10,7 +10,7 @@ html {
   background-color: blue;
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 360px) {
   html {
     background-color: red;
   }
